@@ -1,0 +1,35 @@
+{
+  "name": "angular-test-seed",
+  "description": "Dummy project to reproduce potential infinite loop Stryker issue",
+  "version": "0.0.0",
+  "repository": "https://github.com/mknabe/angular-testing-starter",
+  "devDependencies": {
+    "angular-mocks": "1.5.6",
+    "browserify": "13.1.1",
+    "grunt": "0.4.5",
+    "grunt-browserify": "5.0.0",
+    "grunt-karma": "2.0.0",
+    "grunt-stryker": "0.5.2",
+    "jasmine-core": "2.5.2",
+    "karma": "1.4.1",
+    "karma-browserify": "5.1.0",
+    "karma-chrome-launcher": "2.0.0",
+    "karma-coverage": "1.1.1",
+    "karma-html-reporter": "0.2.7",
+    "karma-jasmine": "0.3.5",
+    "karma-junit-reporter": "1.2.0",
+    "karma-source-map-support": "1.2.0",
+    "karma-webdriver-launcher": "1.0.4",
+    "load-grunt-tasks": "3.5.2",
+    "stryker": "0.6.2",
+    "stryker-api": "0.5.3",
+    "stryker-html-reporter": "0.4.2",
+    "stryker-jasmine": "0.2.2",
+    "stryker-karma-runner": "0.4.1"
+  },
+  "dependencies": {
+    "grunt": "~0.4.2",
+    "angular": "1.4.7",
+    "jquery": "2.1.4"
+  }
+}
